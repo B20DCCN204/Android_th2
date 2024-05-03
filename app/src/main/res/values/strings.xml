@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">SongDemo</string>
+    <string-array name="category">
+        <item>country</item>
+        <item>blues</item>
+        <item>pop</item>
+        <item>rock</item>
+    </string-array>
+    <string-array name="album">
+        <item>Cho 1 tinh yeu</item>
+        <item>Noi yeu be dai</item>
+        <item>Co dung duoc khong</item>
+        <item>Day la mo</item>
+    </string-array>
+</resources>
